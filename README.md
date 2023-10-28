@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](<./screeshots/desktop-design.png>)
-![Alt text](<./screeshots/mobile-design.png>)
+![Alt text](<./screenshots/desktop-design.png>)
+![Alt text](<./screenshots/mobile-design.png>)
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/Ihssane5/To_Do_List.git]
+- Live Site URL: [https://ihssane5.github.io/To_Do_List/]
 
 ## My process
 My process begun with chosing the style of my apps,  and then make it real using html and css, then i moved to making it intercative using DOM, 
