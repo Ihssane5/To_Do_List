@@ -11,7 +11,7 @@
 
 body {
     height: 100vh;
-    background-image: url("ressources/image/Blue Modern Desktop Wallpaper.png");
+    background-image: url("../ressources/image/Blue Modern Desktop Wallpaper.png");
     background-size: cover;
     display: flex;
     justify-content: center;
